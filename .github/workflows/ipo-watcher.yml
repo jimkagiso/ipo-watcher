@@ -1,0 +1,37 @@
+name: IPO Watcher
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (08:00 SAST)
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+jobs:
+  check-listings:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run watcher
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
+        run: python ipo_watcher.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "ipo-watcher-bot"
+          git config user.email "actions@github.com"
+          git add seen_listings.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update seen listings [skip ci]"
+          git push
