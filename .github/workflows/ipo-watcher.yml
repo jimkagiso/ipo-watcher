@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "ipo-watcher-bot"
           git config user.email "actions@github.com"
-          git add seen_listings.json
+          git add seen_listings.json docs/listings_data.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update seen listings [skip ci]"
           git push
