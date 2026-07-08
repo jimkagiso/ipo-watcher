@@ -20,13 +20,17 @@ from pathlib import Path
 import requests
 
 STATE_FILE = Path("seen_listings.json")
+DASHBOARD_DATA_FILE = Path("docs/listings_data.json")
 USER_AGENT = "Mozilla/5.0 (compatible; IPOWatcher/1.0)"
+MAX_HISTORY_ITEMS = 150
 
 
 def load_seen():
     if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text())
-    return {"jse": [], "nasdaq": [], "stocktitan": []}
+        data = json.loads(STATE_FILE.read_text())
+        data.setdefault("history", [])
+        return data
+    return {"jse": [], "nasdaq": [], "stocktitan": [], "history": []}
 
 
 def save_seen(seen):
@@ -119,11 +123,31 @@ def fetch_nasdaq_ipo_calendar():
 
 
 def diff_new(source_key, items, seen):
-    """Return only items not seen before, and update seen list."""
+    """Return only items not seen before, and update seen list + history."""
     seen_titles = set(seen.get(source_key, []))
     new_items = [i for i in items if i["title"] not in seen_titles]
     seen[source_key] = list(seen_titles | {i["title"] for i in items})
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    for item in new_items:
+        seen["history"].insert(0, {
+            "source": source_key,
+            "title": item["title"],
+            "url": item.get("url", ""),
+            "first_seen": today,
+        })
+    seen["history"] = seen["history"][:MAX_HISTORY_ITEMS]
     return new_items
+
+
+def write_dashboard_data(seen):
+    """Write a JSON snapshot the dashboard (index.html) can fetch and render."""
+    DASHBOARD_DATA_FILE.parent.mkdir(exist_ok=True)
+    payload = {
+        "last_updated": datetime.now().isoformat(),
+        "history": seen.get("history", []),
+    }
+    DASHBOARD_DATA_FILE.write_text(json.dumps(payload, indent=2))
 
 
 def build_digest(new_by_source):
@@ -187,6 +211,7 @@ def main():
     }
 
     save_seen(seen)
+    write_dashboard_data(seen)
 
     digest = build_digest(new_by_source)
     if digest:
