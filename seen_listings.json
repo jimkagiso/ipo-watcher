@@ -1,19 +1,34 @@
 {
   "jse": [],
   "nasdaq": [
-    "Standard Nuclear, Inc. (STDN)",
-    "Viking Acquisition Corp. II (VIIU)",
-    "Bending Spoons S.p.A. (BSP)",
-    "Freedom Metals Acquisition Corp. (FDMMU)",
-    "Bleichroeder Acquisition Corp. III (BCCQU)",
-    "SK hynix Inc. (SKHY)",
     "Osprey Acquisition Corp. III (OSPRU)",
-    "ITG, Inc./DE/ (ITG)",
-    "Csquare, Inc. (CSQR)",
-    "Meridian3 Industrials Acquisition Corp (MIACU)",
+    "Bleichroeder Acquisition Corp. III (BCCQU)",
+    "Columbus Circle Capital Corp III (CCCTU)",
+    "Neutron Holdings, Inc. (LIME)",
+    "Standard Nuclear, Inc. (STDN)",
+    "Mercator Acquisition Corp. (MRCOU)",
+    "SK hynix Inc. (SKHY)",
     "Tarsier Pharma Ltd. (TARX)",
-    "Neutron Holdings, Inc. (LIME)"
+    "Meridian3 Industrials Acquisition Corp (MIACU)",
+    "Csquare, Inc. (CSQR)",
+    "Freedom Metals Acquisition Corp. (FDMMU)",
+    "ITG, Inc./DE/ (ITG)",
+    "Bending Spoons S.p.A. (BSP)",
+    "Viking Acquisition Corp. II (VIIU)"
   ],
   "stocktitan": [],
-  "history": []
+  "history": [
+    {
+      "source": "nasdaq",
+      "title": "Mercator Acquisition Corp. (MRCOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Columbus Circle Capital Corp III (CCCTU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-09"
+    }
+  ]
 }

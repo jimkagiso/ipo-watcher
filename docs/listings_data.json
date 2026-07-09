@@ -1,4 +1,17 @@
 {
-  "last_updated": "2026-07-09T00:29:17.314655",
-  "history": []
+  "last_updated": "2026-07-09T16:13:37.103451",
+  "history": [
+    {
+      "source": "nasdaq",
+      "title": "Mercator Acquisition Corp. (MRCOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-09"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Columbus Circle Capital Corp III (CCCTU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-09"
+    }
+  ]
 }
