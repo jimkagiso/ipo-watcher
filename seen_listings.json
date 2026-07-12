@@ -1,20 +1,20 @@
 {
   "jse": [],
   "nasdaq": [
-    "Neutron Holdings, Inc. (LIME)",
     "Mercator Acquisition Corp. (MRCOU)",
-    "Freedom Metals Acquisition Corp. (FDMMU)",
-    "Meridian3 Industrials Acquisition Corp (MIACU)",
     "Bending Spoons S.p.A. (BSP)",
-    "Csquare, Inc. (CSQR)",
-    "ITG, Inc./DE/ (ITG)",
     "Osprey Acquisition Corp. III (OSPRU)",
-    "SK hynix Inc. (SKHY)",
     "Columbus Circle Capital Corp III (CCCTU)",
+    "ITG, Inc./DE/ (ITG)",
     "Standard Nuclear, Inc. (STDN)",
-    "Viking Acquisition Corp. II (VIIU)",
+    "Meridian3 Industrials Acquisition Corp (MIACU)",
+    "Freedom Metals Acquisition Corp. (FDMMU)",
     "Tarsier Pharma Ltd. (TARX)",
-    "Bleichroeder Acquisition Corp. III (BCCQU)"
+    "Csquare, Inc. (CSQR)",
+    "SK hynix Inc. (SKHY)",
+    "Bleichroeder Acquisition Corp. III (BCCQU)",
+    "Viking Acquisition Corp. II (VIIU)",
+    "Neutron Holdings, Inc. (LIME)"
   ],
   "stocktitan": [],
   "history": [
