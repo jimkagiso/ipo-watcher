@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-12T10:59:57.738717",
+  "last_updated": "2026-07-13T13:40:33.754154",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Research Alliance Corp IV (RACD)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "source": "nasdaq",
+      "title": "East West Ave Acquisition Corp. (EWAVU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "source": "nasdaq",
+      "title": "SK hynix Inc. (SKHYV)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Samos Energy Acquisition Corp (SAMOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
     {
       "source": "nasdaq",
       "title": "Mercator Acquisition Corp. (MRCOU)",

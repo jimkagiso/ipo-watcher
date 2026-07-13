@@ -1,23 +1,51 @@
 {
   "jse": [],
   "nasdaq": [
-    "Mercator Acquisition Corp. (MRCOU)",
-    "Bending Spoons S.p.A. (BSP)",
-    "Osprey Acquisition Corp. III (OSPRU)",
-    "Columbus Circle Capital Corp III (CCCTU)",
-    "ITG, Inc./DE/ (ITG)",
     "Standard Nuclear, Inc. (STDN)",
-    "Meridian3 Industrials Acquisition Corp (MIACU)",
-    "Freedom Metals Acquisition Corp. (FDMMU)",
+    "Viking Acquisition Corp. II (VIIU)",
     "Tarsier Pharma Ltd. (TARX)",
+    "SK hynix Inc. (SKHYV)",
+    "Research Alliance Corp IV (RACD)",
+    "Samos Energy Acquisition Corp (SAMOU)",
+    "Columbus Circle Capital Corp III (CCCTU)",
     "Csquare, Inc. (CSQR)",
     "SK hynix Inc. (SKHY)",
+    "Freedom Metals Acquisition Corp. (FDMMU)",
+    "East West Ave Acquisition Corp. (EWAVU)",
+    "ITG, Inc./DE/ (ITG)",
+    "Osprey Acquisition Corp. III (OSPRU)",
+    "Mercator Acquisition Corp. (MRCOU)",
+    "Bending Spoons S.p.A. (BSP)",
+    "Neutron Holdings, Inc. (LIME)",
     "Bleichroeder Acquisition Corp. III (BCCQU)",
-    "Viking Acquisition Corp. II (VIIU)",
-    "Neutron Holdings, Inc. (LIME)"
+    "Meridian3 Industrials Acquisition Corp (MIACU)"
   ],
   "stocktitan": [],
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Research Alliance Corp IV (RACD)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "source": "nasdaq",
+      "title": "East West Ave Acquisition Corp. (EWAVU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "source": "nasdaq",
+      "title": "SK hynix Inc. (SKHYV)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Samos Energy Acquisition Corp (SAMOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-13"
+    },
     {
       "source": "nasdaq",
       "title": "Mercator Acquisition Corp. (MRCOU)",
