@@ -1,27 +1,34 @@
 {
   "jse": [],
   "nasdaq": [
-    "Osprey Acquisition Corp. III (OSPRU)",
+    "Tarsier Pharma Ltd. (TARX)",
+    "Meridian3 Industrials Acquisition Corp (MIACU)",
+    "Viking Acquisition Corp. II (VIIU)",
+    "Mercator Acquisition Corp. (MRCOU)",
     "ITG, Inc./DE/ (ITG)",
     "SK hynix Inc. (SKHY)",
-    "Viking Acquisition Corp. II (VIIU)",
+    "Freedom Metals Acquisition Corp. (FDMMU)",
+    "East West Ave Acquisition Corp. (EWAVU)",
+    "Bleichroeder Acquisition Corp. III (BCCQU)",
+    "Samos Energy Acquisition Corp (SAMOU)",
     "Neutron Holdings, Inc. (LIME)",
     "SK hynix Inc. (SKHYV)",
-    "Bending Spoons S.p.A. (BSP)",
     "Csquare, Inc. (CSQR)",
-    "Bleichroeder Acquisition Corp. III (BCCQU)",
-    "Tarsier Pharma Ltd. (TARX)",
-    "Samos Energy Acquisition Corp (SAMOU)",
-    "Columbus Circle Capital Corp III (CCCTU)",
     "Research Alliance Corp IV (RACD)",
-    "Freedom Metals Acquisition Corp. (FDMMU)",
     "Standard Nuclear, Inc. (STDN)",
-    "Mercator Acquisition Corp. (MRCOU)",
-    "East West Ave Acquisition Corp. (EWAVU)",
-    "Meridian3 Industrials Acquisition Corp (MIACU)"
+    "Bending Spoons S.p.A. (BSP)",
+    "Columbus Circle Capital Corp III (CCCTU)",
+    "Osprey Acquisition Corp. III (OSPRU)",
+    "MetaOptics Ltd (MOT)"
   ],
   "stocktitan": [],
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "MetaOptics Ltd (MOT)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-15"
+    },
     {
       "source": "nasdaq",
       "title": "Research Alliance Corp IV (RACD)",

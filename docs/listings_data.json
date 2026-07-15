@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-14T11:12:40.644852",
+  "last_updated": "2026-07-15T07:52:57.970603",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "MetaOptics Ltd (MOT)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-15"
+    },
     {
       "source": "nasdaq",
       "title": "Research Alliance Corp IV (RACD)",
