@@ -1,28 +1,49 @@
 {
   "jse": [],
   "nasdaq": [
-    "Tarsier Pharma Ltd. (TARX)",
-    "Meridian3 Industrials Acquisition Corp (MIACU)",
-    "Viking Acquisition Corp. II (VIIU)",
-    "Mercator Acquisition Corp. (MRCOU)",
-    "ITG, Inc./DE/ (ITG)",
-    "SK hynix Inc. (SKHY)",
-    "Freedom Metals Acquisition Corp. (FDMMU)",
     "East West Ave Acquisition Corp. (EWAVU)",
-    "Bleichroeder Acquisition Corp. III (BCCQU)",
-    "Samos Energy Acquisition Corp (SAMOU)",
-    "Neutron Holdings, Inc. (LIME)",
-    "SK hynix Inc. (SKHYV)",
-    "Csquare, Inc. (CSQR)",
-    "Research Alliance Corp IV (RACD)",
     "Standard Nuclear, Inc. (STDN)",
+    "QumulusAI, Inc. (QMLS)",
+    "Osprey Acquisition Corp. III (OSPRU)",
+    "Research Alliance Corp IV (RACD)",
+    "Viking Acquisition Corp. II (VIIU)",
     "Bending Spoons S.p.A. (BSP)",
     "Columbus Circle Capital Corp III (CCCTU)",
-    "Osprey Acquisition Corp. III (OSPRU)",
-    "MetaOptics Ltd (MOT)"
+    "SK hynix Inc. (SKHY)",
+    "Neutron Holdings, Inc. (LIME)",
+    "Meridian3 Industrials Acquisition Corp (MIACU)",
+    "Tarsier Pharma Ltd. (TARX)",
+    "SK hynix Inc. (SKHYV)",
+    "Csquare, Inc. (CSQR)",
+    "Freedom Metals Acquisition Corp. (FDMMU)",
+    "ITG, Inc./DE/ (ITG)",
+    "Mercator Acquisition Corp. (MRCOU)",
+    "Southern Cross Acquisition I Corp. (NCOU)",
+    "MetaOptics Ltd (MOT)",
+    "Bleichroeder Acquisition Corp. III (BCCQU)",
+    "Samos Energy Acquisition Corp (SAMOU)",
+    "Jones Ventures INTL Acquisition1 Corp (JONEU)"
   ],
   "stocktitan": [],
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "QumulusAI, Inc. (QMLS)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Southern Cross Acquisition I Corp. (NCOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Jones Ventures INTL Acquisition1 Corp (JONEU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-16"
+    },
     {
       "source": "nasdaq",
       "title": "MetaOptics Ltd (MOT)",

@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-15T07:52:57.970603",
+  "last_updated": "2026-07-16T07:58:50.232938",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "QumulusAI, Inc. (QMLS)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Southern Cross Acquisition I Corp. (NCOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-16"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Jones Ventures INTL Acquisition1 Corp (JONEU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-16"
+    },
     {
       "source": "nasdaq",
       "title": "MetaOptics Ltd (MOT)",
