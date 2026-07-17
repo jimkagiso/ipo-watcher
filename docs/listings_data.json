@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-16T07:58:50.232938",
+  "last_updated": "2026-07-17T07:54:42.627319",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Market Technology Acquisition Corp (MTAKU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-17"
+    },
     {
       "source": "nasdaq",
       "title": "QumulusAI, Inc. (QMLS)",
