@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-20T08:43:45.309638",
+  "last_updated": "2026-07-21T08:10:59.409793",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "AMR Resources Acquisition Corp. (AMACU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-21"
+    },
     {
       "source": "nasdaq",
       "title": "Market Technology Acquisition Corp (MTAKU)",
