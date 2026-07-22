@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-21T08:10:59.409793",
+  "last_updated": "2026-07-22T08:11:18.374663",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Scribe Therapeutics, Inc. (SCTX)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Reformation Inc. (REF)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-22"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Jersey Mike's Subs Inc. (JMKE)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-22"
+    },
     {
       "source": "nasdaq",
       "title": "AMR Resources Acquisition Corp. (AMACU)",
