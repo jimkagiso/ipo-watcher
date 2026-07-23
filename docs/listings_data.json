@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-22T08:11:18.374663",
+  "last_updated": "2026-07-23T08:14:31.333713",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "B&R Technology Merger Corp. (BRTMU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-23"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Southern Cross Acquisition I Corp. (NCOOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-23"
+    },
     {
       "source": "nasdaq",
       "title": "Scribe Therapeutics, Inc. (SCTX)",
