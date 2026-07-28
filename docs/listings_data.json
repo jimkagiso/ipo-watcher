@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-27T09:34:55.090541",
+  "last_updated": "2026-07-28T08:18:29.890255",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Pelican Acquisition II Corp (PLCIU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-28"
+    },
     {
       "source": "nasdaq",
       "title": "B&R Technology Merger Corp. (BRTMU)",
