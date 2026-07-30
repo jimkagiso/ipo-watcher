@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-29T08:24:23.267206",
+  "last_updated": "2026-07-30T08:10:01.698996",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Game Your Game Inc. (GYGY)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Catalyst Acquisition Corp. (CATLU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-30"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Ionic Digital Inc. (IOND)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-30"
+    },
     {
       "source": "nasdaq",
       "title": "Apnimed, Inc. (APMD)",
