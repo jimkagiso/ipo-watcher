@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-30T08:10:01.698996",
+  "last_updated": "2026-07-31T08:37:32.478464",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "BOA Acquisition Corp. II (THEOU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-31"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Churchill Capital Corp XIII (XIIIU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-31"
+    },
+    {
+      "source": "nasdaq",
+      "title": "IMC Rare Earths Ltd (IMC)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-07-31"
+    },
     {
       "source": "nasdaq",
       "title": "Game Your Game Inc. (GYGY)",
