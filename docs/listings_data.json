@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-03T09:26:40.552420",
+  "last_updated": "2026-08-04T08:24:12.699328",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Phalanx Acquisition Corp I (PHAXU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-04"
+    },
     {
       "source": "nasdaq",
       "title": "Attovia Therapeutics, Inc. (ATTO)",
