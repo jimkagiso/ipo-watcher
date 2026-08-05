@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-04T08:24:12.699328",
+  "last_updated": "2026-08-05T08:21:48.944088",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "BlossomHill Therapeutics, Inc. (BLSM)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Latigo Biotherapeutics, Inc. (LTGO)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-05"
+    },
     {
       "source": "nasdaq",
       "title": "Phalanx Acquisition Corp I (PHAXU)",
