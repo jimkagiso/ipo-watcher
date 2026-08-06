@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-05T08:21:48.944088",
+  "last_updated": "2026-08-06T08:18:54.957079",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "OceanLight Acquisition Corp (OCLTU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-06"
+    },
+    {
+      "source": "nasdaq",
+      "title": "ARC Group Securities Acquisition I (FJDIU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-06"
+    },
     {
       "source": "nasdaq",
       "title": "BlossomHill Therapeutics, Inc. (BLSM)",
