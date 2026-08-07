@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-06T08:18:54.957079",
+  "last_updated": "2026-08-07T07:01:52.055500",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "TCGX Acquisition Corp. (TCGX)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-07"
+    },
     {
       "source": "nasdaq",
       "title": "OceanLight Acquisition Corp (OCLTU)",
