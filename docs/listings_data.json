@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-12T07:11:34.531577",
+  "last_updated": "2026-08-13T07:14:30.432054",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Thunder Bridge Capital Partners V, Ltd. (TBCVU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-13"
+    },
     {
       "source": "nasdaq",
       "title": "Leader's Advantage Acquisition Corp. (LEDRU)",
