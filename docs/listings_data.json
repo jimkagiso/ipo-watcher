@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-08-13T07:14:30.432054",
+  "last_updated": "2026-08-14T07:11:39.917978",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "NorthStrive Acquisition Corp I. (NSAIU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Advasa Holdings, Inc. (ADBT)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Londian Wason New Energy Tech Inc. (FOIL)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "source": "nasdaq",
+      "title": "SunScout Holding Ltd (SNSC)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Vogenx, Inc. (VOGX)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-14"
+    },
     {
       "source": "nasdaq",
       "title": "Thunder Bridge Capital Partners V, Ltd. (TBCVU)",
