@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-19T06:28:51.088591",
+  "last_updated": "2026-08-20T06:30:59.957300",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Karman Line Acquisition Corp. (XTERU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-20"
+    },
     {
       "source": "nasdaq",
       "title": "NorthStrive Acquisition Corp I. (NSAIU)",
