@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-21T06:31:34.051701",
+  "last_updated": "2026-08-22T06:24:34.686912",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "First Breach, Inc. (FBDT)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-22"
+    },
     {
       "source": "nasdaq",
       "title": "Karman Line Acquisition Corp. (XTERU)",
