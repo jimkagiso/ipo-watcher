@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-26T06:33:17.479980",
+  "last_updated": "2026-08-27T17:09:27.195263",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Rainier Acquisition Corp (RNAQU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-27"
+    },
     {
       "source": "nasdaq",
       "title": "JATT III Acquisition Corp (JTTT)",
