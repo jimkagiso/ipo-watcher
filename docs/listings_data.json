@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-27T17:09:27.195263",
+  "last_updated": "2026-08-28T17:56:33.367596",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Inflection Point Acquisition Corp. VIII (IPHXU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-08-28"
+    },
     {
       "source": "nasdaq",
       "title": "Rainier Acquisition Corp (RNAQU)",
