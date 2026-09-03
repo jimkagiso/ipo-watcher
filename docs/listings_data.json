@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-02T10:16:11.279870",
+  "last_updated": "2026-09-03T10:27:04.076228",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Three Lions Acquisition Corp. (TLACU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-03"
+    },
     {
       "source": "nasdaq",
       "title": "SIYATA PTT (PTT)",
