@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-10T10:19:05.282101",
+  "last_updated": "2026-09-11T10:18:43.728998",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Orion180 Insurance Group Inc. (OIG)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-11"
+    },
     {
       "source": "nasdaq",
       "title": "Holtec Nuclear Corp (HNUC)",
