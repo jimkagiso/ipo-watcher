@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-15T10:44:54.811890",
+  "last_updated": "2026-09-16T10:33:03.560212",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Electra Therapeutics, Inc. (ETRA)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Bamboo Insurance Services, Inc. (BMB)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-16"
+    },
     {
       "source": "nasdaq",
       "title": "Orion180 Insurance Group Inc. (OIG)",
