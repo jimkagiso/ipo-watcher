@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-16T10:33:03.560212",
+  "last_updated": "2026-09-17T10:42:42.928384",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Amaero Inc. (AMRO)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-17"
+    },
     {
       "source": "nasdaq",
       "title": "Electra Therapeutics, Inc. (ETRA)",
