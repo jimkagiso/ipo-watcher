@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-17T10:42:42.928384",
+  "last_updated": "2026-09-18T10:18:16.007963",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Haymaker Acquisition Corp V (HYACU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-18"
+    },
     {
       "source": "nasdaq",
       "title": "Amaero Inc. (AMRO)",
