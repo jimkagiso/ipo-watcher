@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-23T10:31:43.778498",
+  "last_updated": "2026-09-24T10:49:15.988200",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Accelevation Holdings Corp. (ACCV)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-24"
+    },
     {
       "source": "nasdaq",
       "title": "ADARx Pharmaceuticals, Inc. (ADRX)",
