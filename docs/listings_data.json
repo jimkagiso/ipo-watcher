@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-24T10:49:15.988200",
+  "last_updated": "2026-09-25T10:53:48.812919",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Live Oak Acquisition Corp. VI (LOVIU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-25"
+    },
     {
       "source": "nasdaq",
       "title": "Accelevation Holdings Corp. (ACCV)",
