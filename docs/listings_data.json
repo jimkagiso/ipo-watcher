@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-25T10:53:48.812919",
+  "last_updated": "2026-09-26T10:33:30.658474",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "New Iceland Arctic Acquisition Corp. (NIAAU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-26"
+    },
     {
       "source": "nasdaq",
       "title": "Live Oak Acquisition Corp. VI (LOVIU)",
