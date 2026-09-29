@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-28T12:28:09.649315",
+  "last_updated": "2026-09-29T11:52:02.151345",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Bluerock Acquisition Corp. II (BRRKU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-29"
+    },
     {
       "source": "nasdaq",
       "title": "New Iceland Arctic Acquisition Corp. (NIAAU)",
