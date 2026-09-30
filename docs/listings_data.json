@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-09-29T11:52:02.151345",
+  "last_updated": "2026-09-30T11:39:14.284184",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "ROZE AI INC. (RZAI)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-09-30"
+    },
     {
       "source": "nasdaq",
       "title": "Bluerock Acquisition Corp. II (BRRKU)",
