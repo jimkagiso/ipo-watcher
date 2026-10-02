@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-01T12:08:05.639460",
+  "last_updated": "2026-10-02T11:38:29.390377",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "AfterNext Acquisition I Corp. (AFNXU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-02"
+    },
     {
       "source": "nasdaq",
       "title": "ROZE AI INC. (RZAI)",
