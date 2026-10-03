@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-02T11:38:29.390377",
+  "last_updated": "2026-10-03T10:52:01.142998",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Southport Acquisition Corp. II (PORTU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-03"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Chilwa Minerals Ltd (CHWM)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-03"
+    },
     {
       "source": "nasdaq",
       "title": "AfterNext Acquisition I Corp. (AFNXU)",
