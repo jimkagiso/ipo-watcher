@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-06T12:29:43.984650",
+  "last_updated": "2026-10-07T12:22:46.367117",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Retension Pharmaceuticals, Inc. (RTSN)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-07"
+    },
+    {
+      "source": "nasdaq",
+      "title": "TRex Bio, Inc. (TRXB)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-07"
+    },
     {
       "source": "nasdaq",
       "title": "Southport Acquisition Corp. II (PORTU)",
