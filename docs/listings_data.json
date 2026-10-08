@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-07T12:22:46.367117",
+  "last_updated": "2026-10-08T12:32:16.950739",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Pine Tree Acquisition Corp. (PAXGU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-08"
+    },
     {
       "source": "nasdaq",
       "title": "Retension Pharmaceuticals, Inc. (RTSN)",
