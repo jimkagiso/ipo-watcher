@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-09T12:20:27.351603",
+  "last_updated": "2026-10-10T11:38:48.469882",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Iambic Therapeutics, Inc. (IAM)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-10"
+    },
     {
       "source": "nasdaq",
       "title": "Pine Tree Acquisition Corp. (PAXGU)",
