@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-11T11:52:06.154753",
+  "last_updated": "2026-10-12T13:59:53.655062",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "CITY THERAPEUTICS, INC. (CTY)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-12"
+    },
     {
       "source": "nasdaq",
       "title": "Iambic Therapeutics, Inc. (IAM)",
