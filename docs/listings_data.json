@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-14T10:54:54.842143",
+  "last_updated": "2026-10-15T10:36:46.282508",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "SPACCircle Acquisition Corp. (SCQCU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-15"
+    },
     {
       "source": "nasdaq",
       "title": "CITY THERAPEUTICS, INC. (CTY)",
