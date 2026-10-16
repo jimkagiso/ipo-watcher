@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-15T10:36:46.282508",
+  "last_updated": "2026-10-16T10:23:27.481209",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Frazier Life Sciences Acquisition Corp. II (FLSC)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-16"
+    },
     {
       "source": "nasdaq",
       "title": "SPACCircle Acquisition Corp. (SCQCU)",
