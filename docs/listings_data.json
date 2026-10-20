@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-19T11:40:46.012720",
+  "last_updated": "2026-10-20T10:43:00.057668",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "TCGX Acquisition Corp. II (TCXB)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-20"
+    },
     {
       "source": "nasdaq",
       "title": "Frazier Life Sciences Acquisition Corp. II (FLSC)",
