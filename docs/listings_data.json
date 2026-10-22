@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-10-21T10:53:52.073258",
+  "last_updated": "2026-10-22T10:54:19.170064",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "DAVION HEALTHCARE PLC (DAVI)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-22"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Lycia Therapeutics, Inc. (LYCA)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-22"
+    },
     {
       "source": "nasdaq",
       "title": "TCGX Acquisition Corp. II (TCXB)",
