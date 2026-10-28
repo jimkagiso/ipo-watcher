@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-10-27T11:19:08.150424",
+  "last_updated": "2026-10-28T11:53:00.327397",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "GEORGIA BANKING CO INC (GBC)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Bambusa Therapeutics, Inc. (BBTX)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "source": "nasdaq",
+      "title": "OPAY Ltd (OPAY)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "source": "nasdaq",
+      "title": "Aspen Neuroscience, Inc. (ASPE)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-28"
+    },
     {
       "source": "nasdaq",
       "title": "DAVION HEALTHCARE PLC (DAVI)",
