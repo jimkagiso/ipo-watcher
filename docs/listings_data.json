@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-30T11:55:01.137131",
+  "last_updated": "2026-10-31T11:28:04.376368",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "BHAV Acquisition Corp II (BHAIU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-10-31"
+    },
     {
       "source": "nasdaq",
       "title": "GEORGIA BANKING CO INC (GBC)",
