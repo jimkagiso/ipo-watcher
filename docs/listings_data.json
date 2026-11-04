@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-11-03T13:20:23.015290",
+  "last_updated": "2026-11-04T13:31:36.106018",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Narragansett Bancorp, Inc. (NARA)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-04"
+    },
     {
       "source": "nasdaq",
       "title": "BHAV Acquisition Corp II (BHAIU)",
