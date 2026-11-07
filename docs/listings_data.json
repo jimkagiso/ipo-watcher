@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-11-06T13:29:45.947743",
+  "last_updated": "2026-11-07T12:10:21.346156",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Rezera Inc. (RZRA)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-07"
+    },
     {
       "source": "nasdaq",
       "title": "Narragansett Bancorp, Inc. (NARA)",
