@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-09T14:46:46.221041",
+  "last_updated": "2026-11-10T14:00:05.222096",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "vVARDIS Holding AG (VVVV)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-10"
+    },
+    {
+      "source": "nasdaq",
+      "title": "WINDWARD BIO GROUP AG (WWB)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-10"
+    },
     {
       "source": "nasdaq",
       "title": "Rezera Inc. (RZRA)",
