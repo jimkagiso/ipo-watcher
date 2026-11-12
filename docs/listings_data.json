@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-11-11T13:16:54.664103",
+  "last_updated": "2026-11-12T14:21:09.100444",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Tracx Logis Ltd. (TRCX)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "source": "nasdaq",
+      "title": "ANTHROPIC, PBC (ANT)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-12"
+    },
     {
       "source": "nasdaq",
       "title": "vVARDIS Holding AG (VVVV)",
