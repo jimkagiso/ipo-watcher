@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-11-12T14:21:09.100444",
+  "last_updated": "2026-11-13T13:41:40.940978",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Anthropic, PBC (ANT)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-13"
+    },
     {
       "source": "nasdaq",
       "title": "Tracx Logis Ltd. (TRCX)",
