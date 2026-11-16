@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-11-15T13:13:20.190046",
+  "last_updated": "2026-11-16T14:22:31.984715",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Modern Mining Technology Corp. (MDRN)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-16"
+    },
     {
       "source": "nasdaq",
       "title": "Anthropic, PBC (ANT)",
