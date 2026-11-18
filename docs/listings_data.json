@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-11-17T15:15:02.451982",
+  "last_updated": "2026-11-18T14:51:50.801012",
   "history": [
+    {
+      "source": "nasdaq",
+      "title": "Football Manager SPAC Inc. (FBLLU)",
+      "url": "https://www.nasdaq.com/market-activity/ipos",
+      "first_seen": "2026-11-18"
+    },
     {
       "source": "nasdaq",
       "title": "Modern Mining Technology Corp. (MDRN)",
